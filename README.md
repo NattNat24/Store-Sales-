@@ -6,5 +6,5 @@ Esta es una competencia de Kaggke, donde predeciremos las ventas de las miles de
 -Natalia Polo Peña (1193435542). Estudiante de Ingeniería Electónica
 # Datos
 Los datos del proyecto vienen de La competición Kaggle Sales Time Series Forecasting
-# Video
+# Video Entrega 2
 https://youtu.be/GInkMLm2ZwI 
