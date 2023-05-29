@@ -8,5 +8,5 @@ Esta es una competencia de Kaggke, donde predeciremos las ventas de las miles de
 Los datos del proyecto vienen de La competición Kaggle Sales Time Series Forecasting
 # Video Entrega 2
 https://youtu.be/GInkMLm2ZwI 
-#**Video Entrega final 
+# Video Entrega final 
 https://youtu.be/0C9CFQX3jSQ 
